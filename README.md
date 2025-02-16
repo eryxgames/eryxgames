@@ -1,4 +1,4 @@
-## ✨ Home of Print&Play Editions of _Eryxian Civilizations_ and _Eryxian Trading Card Game_ ✨
+## ✨Home of Print&Play Editions of _Eryxian Civilizations_ and _Eryxian Trading Card Game_✨
 
 <!--
 **eryxgames/eryxgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
