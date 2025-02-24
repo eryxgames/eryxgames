@@ -1,5 +1,6 @@
 ## ✨Home of Print&Play Editions of _Eryxian Civilizations_ and _Eryxian TCG_ Games✨
-
+***
+[Eryxian Universe Wiki](https://github.com/eryxgames/eryxian/wiki) | [Eryxian Discussions](https://github.com/eryxgames/eryxian/discussions)
 <!--
 **eryxgames/eryxgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
